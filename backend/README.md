@@ -1,4 +1,4 @@
-# Job Portal Backend
+# Placewise Backend
 
 ## Setup Instructions
 

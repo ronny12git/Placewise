@@ -139,7 +139,7 @@ const RecruiterDashboard = () => {
           <div className="bg-white rounded-lg shadow-md p-12 text-center">
             <FaBuilding className="mx-auto text-gray-300 text-6xl mb-6" />
             <h2 className="text-3xl font-bold text-gray-900 mb-4">
-              Welcome to JobPortal!
+              Welcome to Placewise!
             </h2>
             <p className="text-lg text-gray-600 mb-8">
               To start posting jobs and hiring candidates, you need to create your

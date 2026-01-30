@@ -1,6 +1,6 @@
-# Job Portal Frontend
+# Placewise Frontend
 
-React-based frontend for the Job Portal / Placement Management System.
+React-based frontend for the Placewise / Placement Management System.
 
 ## Features
 

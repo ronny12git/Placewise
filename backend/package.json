@@ -1,13 +1,13 @@
 {
-  "name": "job-portal-backend",
+  "name": "placewise-backend",
   "version": "1.0.0",
-  "description": "Job Portal Backend API",
+  "description": "Placewise Backend API",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "keywords": ["job-portal", "mern", "api"],
+  "keywords": ["placewise", "mern", "api"],
   "author": "Rohan Wankhade",
   "license": "ISC",
   "dependencies": {

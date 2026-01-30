@@ -23,7 +23,7 @@ const emailTemplates = {
           <p>Best regards,<br>${companyName} Recruitment Team</p>
         </div>
         <div class="footer">
-          <p>© 2024 Job Portal. All rights reserved.</p>
+          <p>© 2024 Placewise. All rights reserved.</p>
         </div>
       </div>
     </body>
@@ -81,7 +81,7 @@ const emailTemplates = {
           <p>Best regards,<br>${companyName} Recruitment Team</p>
         </div>
         <div class="footer">
-          <p>© 2024 Job Portal. All rights reserved.</p>
+          <p>© 2024 Placewise. All rights reserved.</p>
         </div>
       </div>
     </body>
@@ -113,10 +113,10 @@ const emailTemplates = {
           <p>Company: <strong>${companyName}</strong></p>
           <p>Check out this opportunity and apply before the deadline!</p>
           <a href="${jobLink}" class="button">View Job Details</a>
-          <p>Best regards,<br>Job Portal Team</p>
+          <p>Best regards,<br>Placewise Team</p>
         </div>
         <div class="footer">
-          <p>© 2024 Job Portal. All rights reserved.</p>
+          <p>© 2024 Placewise. All rights reserved.</p>
         </div>
       </div>
     </body>
@@ -138,11 +138,11 @@ const emailTemplates = {
     <body>
       <div class="container">
         <div class="header">
-          <h1>Welcome to Job Portal</h1>
+          <h1>Welcome to Placewise</h1>
         </div>
         <div class="content">
           <p>Dear ${userName},</p>
-          <p>Welcome to Job Portal! Your account has been successfully created as a <strong>${userRole}</strong>.</p>
+          <p>Welcome to Placewise! Your account has been successfully created as a <strong>${userRole}</strong>.</p>
           ${
             userRole === 'student'
               ? '<p>Start building your profile, upload your resume, and explore thousands of job opportunities!</p>'
@@ -153,10 +153,10 @@ const emailTemplates = {
               ? '<p>Start posting jobs and find the best talent for your company!</p>'
               : ''
           }
-          <p>Best regards,<br>Job Portal Team</p>
+          <p>Best regards,<br>Placewise Team</p>
         </div>
         <div class="footer">
-          <p>© 2024 Job Portal. All rights reserved.</p>
+          <p>© 2024 Placewise. All rights reserved.</p>
         </div>
       </div>
     </body>
@@ -187,10 +187,10 @@ const emailTemplates = {
           <a href="${resetLink}" class="button">Reset Password</a>
           <p>This link will expire in 1 hour.</p>
           <p>If you didn't request this, please ignore this email.</p>
-          <p>Best regards,<br>Job Portal Team</p>
+          <p>Best regards,<br>Placewise Team</p>
         </div>
         <div class="footer">
-          <p>© 2024 Job Portal. All rights reserved.</p>
+          <p>© 2024 Placewise. All rights reserved.</p>
         </div>
       </div>
     </body>

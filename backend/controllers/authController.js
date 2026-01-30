@@ -32,7 +32,7 @@ exports.register = async (req, res, next) => {
     try {
       await sendEmail({
         email: user.email,
-        subject: 'Welcome to Job Portal',
+        subject: 'Welcome to Placewise',
         html: emailTemplates.welcomeEmail(user.name, user.role),
       });
     } catch (error) {
